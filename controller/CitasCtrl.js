@@ -31,5 +31,4 @@ CitasCtrl.eliminar = async(id) => {
 
 }; //fin eliminar
 
-
 module.exports = CitasCtrl;
